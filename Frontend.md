@@ -42,32 +42,32 @@ Sign Up Page and Register Page
 
 Features
 
-* Single Sign On
-* Email Password Authentication (if registered)
-* Forget Password
-* Sign Up (if not registered)
+- Single Sign On
+- Email Password Authentication (if registered)
+- Forget Password
+- Sign Up (if not registered)
 
 ### Home Page
 
 Features
 
-* Navbar
-* Sidebar
-* Chat Window
+- Navbar
+- Sidebar
+- Chat Window
 
 ### Navbar
 
 Features
 
-* Notification
-* Search Bar
+- Notification
+- Search Bar
 
 Changes
 
-* Avatar should be created on navbar like dropdown which wil contain
-  * Settings
-  * Profile
-  * Logout
+- Avatar should be created on navbar like dropdown which wil contain
+  - Settings
+  - Profile
+  - Logout
 
 #### Notification Section
 
@@ -75,17 +75,17 @@ This section will contain Request received
 
 Actions:
 
-* User can Accept and Reject the requests
+- User can Accept and Reject the requests
 
 Features:
 
-* On Reuqest received will have Buttons to accept and reject
+- On Request received will have Buttons to accept and reject
 
 #### Search Bar
 
 Actions
 
-* When User will tap on search bar Users will show alphabetic search
+- When User will tap on search bar Users will show alphabetic search
 
 #### Settings
 
@@ -93,11 +93,10 @@ Actions
 
 Features
 
-* Profile Pic
-* Users Name
-* Users Status
+- Profile Pic
+- Users Name
+- Users Status
 
 Actions
 
-* 
-
+-
