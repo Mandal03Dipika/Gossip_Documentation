@@ -231,7 +231,7 @@ We welcome contributions! To contribute:
 - Push to the branch (git push origin feature/your-feature).
 - Create a new Pull Request.
 
-**_Instruction : Don't merge anything to the main branch without sir's permission or discussion._**
+**_Instruction : Work in your own branch. Don't merge anything to the main branch without sir's permission or discussion._**
 
 ---
 
